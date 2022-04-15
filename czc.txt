@@ -1,0 +1,3 @@
+name:czc
+sex:male
+hobby:sleep
