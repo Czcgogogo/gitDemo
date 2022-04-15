@@ -1,3 +1,6 @@
 name:czc
 sex:male
 hobby:sleep
+
+第二版了！
+like：eat
